@@ -2,15 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b1a,35:7b2ff7,70:3a86ff,100:00d4ff&height=220&section=header&text=SoRain5&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20Business%20%26%20Law&descAlignY=60&descSize=18" width="100%" />
+<img src="banner.jpg" width="100%" alt="Neon city skyline at night" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rain+%F0%9F%91%8B;Learning+data+analytics+one+project+at+a+time;Turning+messy+data+into+clear+answers;Building+cool+stuff+from+TikTok+tutorials" alt="Typing animation" />
 
-</div>
+<sub>Banner photo by @lcruz08041 via Pinterest</sub>
 
-<!-- Want your cyber city photo as a banner? Upload it to this repo in a folder called assets,
-     then remove the arrows around the line below. If it's someone else's art, credit the artist. -->
-<!-- <img src="assets/cyber-city.jpg" width="100%" /> -->
+</div>
 
 ---
 
