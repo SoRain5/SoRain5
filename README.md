@@ -2,11 +2,9 @@
 
 <div align="center">
 
-<img src="banner.jpg" width="100%" alt="Neon city skyline at night" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rain+%F0%9F%91%8B;Learning+data+analytics+one+project+at+a+time;Turning+messy+data+into+clear+answers;Building+cool+stuff+from+TikTok+tutorials" alt="Typing animation" />
 
-<sub>Banner photo by @lcruz08041 via Pinterest</sub>
 
 </div>
 
@@ -14,7 +12,7 @@
 
 ## 🌆 About Me
 
-I'm a Business Administration and Law student getting into **data analytics**. I'm brand new to coding, and I'm documenting everything I learn here. I speak **English and Cebuano**.
+I'm a Business Administration and Law student getting into **data analytics**. I'm brand new to coding, and I'm documenting everything I learn here.
 
 - 🔭 Currently learning: Python, SQL, R, Excel, and VS Code
 - 🎯 Goal: land a data analyst role
